@@ -1,7 +1,7 @@
 # Data Warehouse Project
 
 This repository contains the submission for the Data Warehouse project, part of the Virtual Internship Experience for Data Engineer Test at ID/X Partners.
-Canva PPT : https://www.canva.com/design/DAFkcoRmS_k/78Ly8ptRvkJ-KdBotZ8wHA/edit?utm_content=DAFkcoRmS_k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+Canva PPT : [link form PPT](https://www.canva.com/design/DAFkcoRmS_k/78Ly8ptRvkJ-KdBotZ8wHA/edit?utm_content=DAFkcoRmS_k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ## Introduction
 
 The project involves creating a Data Warehouse for an e-commerce client of ID/X Partners, comprising a Fact table and several Dimension tables derived from the source database.
